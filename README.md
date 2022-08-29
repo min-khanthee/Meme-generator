@@ -1,3 +1,10 @@
+# Meme Generator
+
+- Allows you to create your own meme from an array of saved memes.
+
+- To do:
+  - Add an external API of memes, and render this using the useEffect hook.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
